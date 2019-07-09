@@ -12,7 +12,7 @@ Download the notebook and run on your own machine to see the visualisation
 
 ## Map
 
-![alt text](/Figures/Capture1.png)
+![alt text](https://github.com/jelenalor/analytics_SuicideRates/tree/master/Figures/Capture1.png)
 
 
 
@@ -20,7 +20,7 @@ Download the notebook and run on your own machine to see the visualisation
 # Breakdown by age group and year
 
 
-![alt text](/Figures/Capture2.png)
+![alt text](https://github.com/jelenalor/analytics_SuicideRates/tree/master/Figures/Capture2.png)
 
 </pre>
 

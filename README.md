@@ -12,7 +12,7 @@ Download the notebook and run on your own machine to see the visualisation
 
 ## Map
 
-![Screenshot](https://github.com/jelenalor/analytics_SuicideRates/tree/master/Figures/Capture1.png)
+![Capture1](https://user-images.githubusercontent.com/31029142/60919743-8008cb00-a264-11e9-9ec4-5faf800095a3.PNG)
 
 
 

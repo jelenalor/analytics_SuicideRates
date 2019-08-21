@@ -31,7 +31,7 @@ The impact of USSR breakdown can be clearly seen on the visualisation for year 2
 Scroll through the years for a chosen country to see <br>
 the breakdown of suicide rates by age group and sex <br>
 
-![Capture2](https://user-images.githubusercontent.com/31029142/60920028-31a7fc00-a265-11e9-8b89-af2deddea87b.PNG)
+![Capture2](https://user-images.githubusercontent.com/31029142/63472427-19b8c000-c440-11e9-895e-26d71b19e382.PNG)
 
 
 
